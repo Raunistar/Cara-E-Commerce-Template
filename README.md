@@ -40,7 +40,7 @@ A fully responsive, multi-page e-commerce website template built with a **deskto
 
 ## 🔗 Live Demo
 
-[👉 View Live Project](https://your-live-link.netlify.app)  
+[👉 View Live Project](https://cara-rj.netlify.app/)
 _Replace with your actual deployment link (Netlify, GitHub Pages, etc.)_
 
 ## 👨‍💻 Author
